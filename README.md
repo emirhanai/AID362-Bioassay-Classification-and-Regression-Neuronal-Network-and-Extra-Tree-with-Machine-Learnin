@@ -46,7 +46,7 @@ _Example:_
 
 ### **Tags**
 
-_business, earth and nature, health, biology, chemistry, biotechnology, Machin Learning, Python, Artificial Intelligence, Neural Networks, Extra Tree Classifier, Extra Tree Regressor, Software_
+_business, earth and nature, health, biology, chemistry, biotechnology, Machine Learning, Python, Artificial Intelligence, Neural Networks, Extra Tree Classifier, Extra Tree Regressor, Software_
 
 
 ### **Developer Information:**
