@@ -66,3 +66,11 @@ Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
 [OfficialWebSite]: https://www.emirhanbulut.com.tr
 
 [DataSource]: https://kaggle.com
+
+
+
+<img src="https://raw.githubusercontent.com/emirhanai/AID362-Bioassay-Classification-and-Regression-Neuronal-Network-and-Extra-Tree-with-Machine-Learnin/main/bio-machine-learning-emirhan-project.jpg" alt="bio-machine-learning-emirhan-project.jpg">
+
+<img src="https://raw.githubusercontent.com/emirhanai/AID362-Bioassay-Classification-and-Regression-Neuronal-Network-and-Extra-Tree-with-Machine-Learnin/main/bio_inactive-active_plot.png" alt="bio_inactive-active_plot.png">
+
+<img src="https://raw.githubusercontent.com/emirhanai/AID362-Bioassay-Classification-and-Regression-Neuronal-Network-and-Extra-Tree-with-Machine-Learnin/main/bio_plot.png" alt="bio_plot.png">
